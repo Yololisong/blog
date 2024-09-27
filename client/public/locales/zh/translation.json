@@ -1,6 +1,6 @@
 {
-  "message": {
-    "notfound": "将文章别名设置为 message 可以创建关于页面",
+  "about": {
+    "notfound": "将文章别名设置为 about 可以创建关于页面",
     "title": "留言"
   },
   "alert": "提示",
